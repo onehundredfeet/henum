@@ -7,6 +7,7 @@
 	"url": "https://github.com/onehundredfeet/henum",
 	"version": "1.0.0",
 	"releasenote": "First release ",
+	"classPath": "src",
 	"dependencies": {
 	  }
 }
