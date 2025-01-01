@@ -1,3 +1,4 @@
 --hl bin/test.hl
 --class-path test
+--class-path src
 --main Main
