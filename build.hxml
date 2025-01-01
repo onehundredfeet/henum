@@ -1,0 +1,3 @@
+--hl bin/test.hl
+--class-path test
+--main Main

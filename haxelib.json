@@ -1,0 +1,12 @@
+{
+	"name": "henum",
+	"description": "A library for working with enums in Haxe",
+	"license": "MIT",
+	"tags": [],
+	"contributors": [ "onehundredfeet"],
+	"url": "https://github.com/onehundredfeet/henum",
+	"version": "1.0.0",
+	"releasenote": "First release ",
+	"dependencies": {
+	  }
+}
