@@ -1,5 +1,5 @@
 # henum
-Tiny repository of improvements for the haxe enum
+Tiny repository of improvements for the haxe enum abstract (Int)
 
 
 # Usage
